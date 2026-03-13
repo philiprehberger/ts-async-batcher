@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/ts-async-batcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatic batching and deduplication for async operations",
   "type": "module",
   "main": "./dist/index.cjs",
