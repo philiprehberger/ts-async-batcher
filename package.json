@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/async-batcher",
+  "name": "@philiprehberger/ts-async-batcher",
   "version": "0.1.0",
   "description": "Automatic batching and deduplication for async operations",
   "type": "module",
@@ -41,11 +41,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/async-batcher.git"
+    "url": "git+https://github.com/philiprehberger/ts-async-batcher.git"
   },
-  "homepage": "https://github.com/philiprehberger/async-batcher#readme",
+  "homepage": "https://github.com/philiprehberger/ts-async-batcher#readme",
   "bugs": {
-    "url": "https://github.com/philiprehberger/async-batcher/issues"
+    "url": "https://github.com/philiprehberger/ts-async-batcher/issues"
   },
   "author": "Philip Rehberger",
   "engines": {
