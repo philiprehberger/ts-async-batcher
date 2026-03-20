@@ -1,17 +1,21 @@
-# @philiprehberger/async-batcher
+# @philiprehberger/ts-async-batcher
 
-Automatic batching and deduplication for async operations.
+[![CI](https://github.com/philiprehberger/ts-async-batcher/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-async-batcher/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-async-batcher.svg)](https://www.npmjs.com/package/@philiprehberger/ts-async-batcher)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-async-batcher)](LICENSE)
+
+Automatic batching and deduplication for async operations
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/async-batcher
+npm install @philiprehberger/ts-async-batcher
 ```
 
 ## Usage
 
 ```ts
-import { createBatcher } from '@philiprehberger/async-batcher';
+import { createBatcher } from '@philiprehberger/ts-async-batcher';
 
 const userLoader = createBatcher(async (ids: string[]) => {
   // Called once with all collected IDs
@@ -61,6 +65,15 @@ const loader = createBatcher(batchFn, {
 |--------|------|---------|-------------|
 | `maxBatchSize` | `number` | `100` | Max keys per batch |
 | `windowMs` | `number` | `10` | Batch collection window in ms |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
