@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/ts-async-batcher",
+  "name": "@philiprehberger/async-batcher",
   "version": "0.1.4",
   "description": "Automatic batching and deduplication for async operations",
   "type": "module",
