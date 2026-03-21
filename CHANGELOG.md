@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5
+
+- Republish under new npm package name
+
 ## 0.1.4
 
 - Fix README badge configuration
