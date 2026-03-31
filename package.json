@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/async-batcher",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Automatic batching and deduplication for async operations",
   "type": "module",
   "main": "./dist/index.cjs",
