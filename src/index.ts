@@ -1,2 +1,8 @@
-export { createBatcher } from './batcher.js';
-export type { BatcherOptions, Batcher } from './types.js';
+export { createBatcher, BatcherQueueFullError } from './batcher.js';
+export type {
+  BatcherOptions,
+  Batcher,
+  BatchMetrics,
+  Priority,
+  OverflowStrategy,
+} from './types.js';

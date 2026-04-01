@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0
+
+- Add batch metrics tracking (size distribution, error count, total items)
+- Add max queue size limit with overflow strategy
+- Add batch prioritization for critical items
+- Add retry logic with exponential backoff on batch failure
+
 ## 0.1.6
 
 - Standardize README to 3-badge format with emoji Support section
