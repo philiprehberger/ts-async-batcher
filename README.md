@@ -1,8 +1,8 @@
 # @philiprehberger/async-batcher
 
-[![CI](https://github.com/philiprehberger/async-batcher/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/async-batcher/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-async-batcher/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-async-batcher/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/async-batcher.svg)](https://www.npmjs.com/package/@philiprehberger/async-batcher)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/async-batcher)](https://github.com/philiprehberger/async-batcher/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-async-batcher)](https://github.com/philiprehberger/ts-async-batcher/commits/main)
 
 Automatic batching and deduplication for async operations
 
@@ -176,11 +176,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/async-batcher)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-async-batcher)
 
-🐛 [Report issues](https://github.com/philiprehberger/async-batcher/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-async-batcher/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/async-batcher/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-async-batcher/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 

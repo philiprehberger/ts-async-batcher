@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+- Fix README GitHub URLs to use correct repo name (ts-async-batcher)
+
 ## 0.2.0
 
 - Add batch metrics tracking (size distribution, error count, total items)
